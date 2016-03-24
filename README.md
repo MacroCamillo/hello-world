@@ -1,4 +1,4 @@
 # hello-world
-trying this fucking editsssss
+trying this fucking edit from gedit
 pull
 
