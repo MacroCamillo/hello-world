@@ -1,2 +1,2 @@
 # hello-world
-trying ti fucking git
+trying this fucking git
